@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1386883216 source:/home/phil/CSci 156/server/Product.cpp
+	"Product.h"
+
+1386883177 /home/phil/CSci 156/server/Product.h
+	<string>
+
+1386883120 source:/home/phil/CSci 156/server/main.cpp
+	<arpa/inet.h>
+	<sys/wait.h>
+	<signal.h>
+	<stdio.h>
+	<cstdlib>
+	<pthread.h>
+	<cstring>
+	<string>
+	<time.h>
+	<vector>
+	<sstream>
+	"include/Product.h"
+
+1386553335 /home/phil/CSci 156/server/include/Product.h
+	<string>
+
